@@ -1,6 +1,6 @@
-# Data-analysis-project-IBM-
+# Data analysis project (IBM)
 
-I have recently been hired a a Data Analyst by a global IT and business consulting services firm that is known for its expertise in IT solutions and its team of highly experienced IT consultants.  To keep pace with changing technologies and remain competitive, my organization regularly analyzes data to help identify future skill requirements. 
+I have recently been hired as a Data Analyst by a global IT and business consulting services firm that is known for its expertise in IT solutions and its team of highly experienced IT consultants.  To keep pace with changing technologies and remain competitive, my organization regularly analyzes data to help identify future skill requirements. 
 
 As a Data Analyst, I will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. 
 
